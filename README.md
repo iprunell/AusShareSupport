@@ -1,2 +1,0 @@
-# AusShareSupport
-AusShareSupport
